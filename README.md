@@ -14,5 +14,28 @@ Much More !!
 
 ### DEMO 😇
   https://watchmovix.netlify.app/
+  
+### Screenshot 👀
+![Screenshot (117)](https://user-images.githubusercontent.com/104569186/236912231-a5b366a4-539b-47da-b3f1-b3dd34d8be42.png)
+
+
+
+
+
+
+
+![Screenshot (118)](https://user-images.githubusercontent.com/104569186/236912280-4d212606-7ad4-4aa9-bbb5-dcc6de7de72f.png)
+
+
+
+
+
+
+
+
+![Screenshot (120)](https://user-images.githubusercontent.com/104569186/236912461-f935ed5a-4c4b-43ec-b603-2c4df400a6b0.png)
+   
+
+
 
 
