@@ -1,16 +1,24 @@
 ### OVERVIEW 🤓
-Build and Deployed Movie Application which is fully functional and responsive. Watch daily and weekly popular movie with suggestion it has functionality of Infinite Scroll,
-,Lazy Loading,faster fetching data,Searching,Filtering (Category Based),Error handling,Detail Movie info (producer, time, rating etc), Movie Recomendation,Loading Skeleton and 
-Much More !!
+Introducing our fully functional and responsive movie app! Watch daily and weekly popular movies, get advanced features like Infinite Scroll and Lazy Loading, and browse our extensive collection with detailed info, filters, and recommendations. Enjoy a seamless experience with error handling and fast data retrieval. Sign up now and start watching your favorites!
 
 ### START 😁
-1. Clone or Fork Repo
-2. root dir -> NPM install
-3. cd movie dir -> NPM install
-4. add .env file to root directory and add !! VITE_APP_TMDB_TOKEN = TOKEN_FROM_TMDB_SITE !!
-   SITE_URL = https://www.themoviedb.org/     Create Account and in the setting create API, Copy Token and paste it in the above VITE_APP_TMDB_TOKEN 
-5. yarn dev -> Spin up application
-6. Enjoy Your fovorite Movie 🤩
+1.   First, you need to clone or fork the movie app repo to your local machine. You can do this by using the git clone command followed by the repo URL. Or, if you prefer        to  fork, go to the repo page and click on the "Fork" button in the top right corner.
+
+2.   Once you have the repo on your machine, navigate to the root directory of the app in your terminal and run the command "npm install". This will install all the              necessary dependencies for the app to run.
+
+3.   Next, navigate to the "movie" directory in the app by running the command "cd movie", and run the command "npm install" again. This will install additional                  dependencies specific to the movie app.
+
+4.   To access the movie data, you'll need to create an API key from the TMDB site. First, create an account on their site, and then go to the "Settings" page to create an      API key. Once you have the API key, create a new file in the root directory called ".env" and add the following line to it:
+
+     VITE_APP_TMDB_TOKEN=YOUR_API_KEY
+
+5.   Make sure to replace "YOUR_API_KEY" with your actual TMDB API key. You can also add the site URL to this file with the following line:
+
+    SITE_URL=https://www.themoviedb.org/
+
+    Now that you have all the necessary dependencies and API key set up, you can run the app locally by running the command "yarn dev". This will spin up the application,       and you can access it by going to "http://localhost:3000" in your web browser.
+
+6.   Finally, enjoy browsing through the movie app and finding your favorite movies!
 
 ### DEMO 😇
   https://watchmovix.netlify.app/
