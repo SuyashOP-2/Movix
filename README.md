@@ -8,7 +8,7 @@ Introducing our fully functional and responsive movie app! Watch daily and weekl
 
 3.   Next, navigate to the "movie" directory in  app by running the command "cd movie", and run the command "npm install" again. This will install additional                  dependencies specific to the movie app.
 
-4.   To access the movie data, you'll need to create an API key from the TMDB site. First, create an account on their site, and then go to the "Settings" page to create an      API key. Once you have the API key, create a new file in the root directory called ".env" and add the following line to it:
+4.   To access the movie data, you'll need to create an API key from the TMDB site. First, create an account on their site, and then go to the "Settings" page to create an      API key. Once  have the API key, create a new file in the root directory called ".env" and add the following line to it:
 
      VITE_APP_TMDB_TOKEN=YOUR_API_KEY
 
